@@ -2,15 +2,15 @@ const TopButtons = ({setQuery}) => {
   const cities = [
     {
       id: 1,
-      name: "London",
+      name: "Mumbai",
     },
     {
       id: 2,
-      name: "Sydney",
+      name: "London",
     },
     {
       id: 3,
-      name: "Tokyo",
+      name: "Hyderabad",
     },
     {
       id: 4,
